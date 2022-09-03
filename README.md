@@ -11,5 +11,5 @@ These steps were delegated amoungst ourselves.
 These repos consist of the the remaining steps involved in Market Segmentation<br/>
 The files pertaining to those steps have been added to this repo. <br/>
 steps 4,8,9 are in this repo. <br/>
-step 5: https://github.com/Pratiksha228/Feynn_Labs_McDonald_Case_Study
+step 5: https://github.com/Pratiksha228/Feynn_Labs_McDonald_Case_Study <br/>
 step 6,7: https://github.com/BairagiSaurabh/Market-Segmentation-Analysis
