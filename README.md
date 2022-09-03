@@ -9,6 +9,6 @@ My team and I studied the market segmentation pdf which can be summarized to 10 
 These steps were delegated amoungst ourselves.
 
 These repos consist of the the remaining steps involved in Market Segmentation
-steps 4,8,9 are in this repo.
+steps 4,8,9 are in this repo. <br/>
 step 5: https://github.com/Pratiksha228/Feynn_Labs_McDonald_Case_Study
 step 6,7: https://github.com/BairagiSaurabh/Market-Segmentation-Analysis
